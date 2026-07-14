@@ -1,0 +1,22 @@
+{
+  "name": "edward-bell-makecode-python-test",
+  "version": "0.0.1",
+  "description": "Temporary Minecraft Education Code Builder Python tutorial test.",
+  "dependencies": {
+    "core": "*",
+    "builder": "*"
+  },
+  "files": [
+    "main.ts",
+    "README.md",
+    "python-bell-test.md"
+  ],
+  "targetVersions": {
+    "target": "1.6.27",
+    "targetId": "minecraft"
+  },
+  "supportedTargets": [
+    "minecraft"
+  ],
+  "preferredEditor": "pyprj"
+}
